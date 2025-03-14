@@ -1,0 +1,12 @@
+nav > ul > li {
+  display: inline;
+  margin-right: 40px;
+  font-size: 22px;
+}
+nav li a {
+  text-decoration: none;
+  color: black;
+}
+article {
+  font-size: 30px;
+}
